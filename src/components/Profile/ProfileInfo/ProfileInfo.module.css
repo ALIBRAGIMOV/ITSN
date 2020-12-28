@@ -1,0 +1,18 @@
+.descriptionBlock {
+    padding: 10px;
+}
+
+.descriptionBlock img {
+    border-radius: 90px;
+    transition-duration: .2s;
+    box-shadow: 0 0 10px rgb(114, 155, 217);
+}
+
+.contact {
+    margin-left: 5px;
+    padding: 2px;
+}
+
+.saveError {
+    color: brown;
+}

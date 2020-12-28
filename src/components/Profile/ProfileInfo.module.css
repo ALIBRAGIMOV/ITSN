@@ -1,0 +1,15 @@
+.content{
+    grid-area: c;
+}
+
+.item{
+    color: rebeccapurple;
+}
+
+.profileImg{
+    box-shadow: 3px 4px 62px -15px rgba(110,120,230,1);
+}
+
+.saveError{
+    color: #c84fef;
+}

@@ -1,0 +1,8 @@
+.loginForm{
+    padding: 10px;
+}
+
+.formSummaryError{
+    color: #05779a;
+    font-weight: bold;
+}

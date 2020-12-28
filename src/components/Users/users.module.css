@@ -1,0 +1,13 @@
+.profile{
+    padding: 10px;
+}
+
+.item span{
+    cursor: pointer;
+    padding: 2px;
+}
+
+.selectedPage{
+    font-weight: bold;
+    color: #348ceb;
+}
